@@ -13,7 +13,6 @@ This Repository contains configurations for Inji Stack, These are the split up o
 
 ### Inji Certify
 - [certify-default.properties](certify-default.properties) - Default Configuration for Certify is mentioned here
-- [certify-plugin-default.properties](certify-plugin-default.properties) - Default Configuration for Plugins is mentioned here
-- [certify-mosipid.properties](certify-mosipid.properties)- Default Configuration for Certify MosipId is mentioned here
-- [certify-mock.properties](certify-mock.properties) - Default Configuration for Certify Mock is mentioned here
-- [certify-insurance.properties](certify-insurance.properties) - Default Configuration for Certify Insurance is mentioned here
+- [certify-mosipid-identity.properties](certify-mosipid-identity.properties)- Plugin specific properties for Mosip identity is mentioned here
+- [certify-mock.properties](certify-mock.properties) - Plugin specific properties for Mock is mentioned here
+- [certify-sunbird-insurance.properties](certify-sunbird-insurance.properties) - Plugin specific properties for sunbird insurance is mentioned here
