@@ -326,7 +326,7 @@
         "InsuranceCredential"
       ],
       "credential_audience": "https://${mosip.esignet.insurance.host}",
-      "enabled": "false"
+      "enabled": "true"
     },
     {
       "credential_issuer": "HealthCoverageZ",
