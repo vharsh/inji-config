@@ -532,7 +532,7 @@
       ],
       "credential_audience": "https://${mosip.injicertify.host}",
       "enabled": "true"
-    }
+    },
      {
       "credential_issuer": "TEST-1",
       "display": [
@@ -607,7 +607,7 @@
       "credential_audience": "https://${mosip.esignet.host}",
       "enabled": "true"
     },
-		{
+	  {
       "credential_issuer": "TEST-3",
       "display": [
         {
@@ -619,8 +619,7 @@
           "title": "National Identity Department",
           "description": "Download MOSIP National / Foundational Identity Credential",
           "language": "en"
-        },
-       
+        }, 
       "protocol": "OpenId4VCI",
       "client_id": "${mimoto.oidc.partner.clientid}",
       "client_alias": "mpartner-default-mimotooidc",
