@@ -549,7 +549,7 @@
       ],
       "protocol": "OpenId4VCI",
       "client_id": "${mimoto.oidc.mock.partner.clientid}",
-      "client_alias": "mpartner-default-mimotooidc",
+      "client_alias": "mpartner-mock-testing",
       "scopes_supported": [
         "mock_identity_vc_ldp"
       ],
