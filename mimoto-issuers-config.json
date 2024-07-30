@@ -358,6 +358,7 @@
       "authorization_audience": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
       "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/HealthCoverageZ",
       "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
+      "ovp_qr_enabled": "false",
       "enabled": "true"
     },
     {
@@ -407,6 +408,7 @@
       "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
       "credential_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/vci/credential",
       "credential_audience": "https://${mosip.esignet.insurance.host}",
+      "ovp_qr_enabled": "false",
       "enabled": "true"
     },
     {
