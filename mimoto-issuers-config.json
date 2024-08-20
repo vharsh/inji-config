@@ -425,7 +425,7 @@
       "enabled": "true"
    },
 {
-      "credential_issuer": "Mock",
+      "credential_issuer": "Mock1",
       "display": [
         {
           "name": "Mock Identity1",
@@ -445,12 +445,12 @@
       ".well-known": "https://${mosip.injicertify.mock.host}/v1/certify/issuance/.well-known/openid-credential-issuer",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock",
+      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock1",
       "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
       "enabled": "true"
     },
 {
-      "credential_issuer": "Mock",
+      "credential_issuer": "Mock2",
       "display": [
         {
           "name": "Mock Identity2",
@@ -469,12 +469,12 @@
       ".well-known": "https://${mosip.injicertify.mock.host}/v1/certify/issuance/.well-known/openid-credential-issuer",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock",
+      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock2",
       "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
       "enabled": "true"
     },
 {
-      "credential_issuer": "Mock",
+      "credential_issuer": "Mock3",
       "display": [
         {
           "name": "Mock Identity3",
@@ -493,13 +493,13 @@
       ".well-known": "null",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock",
+      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock3",
       "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
       "enabled": "true"
     },
 
 {
-      "credential_issuer": "Mock",
+      "credential_issuer": "Mock4",
       "display": [
         {
           "name": "Mock Identity4",
@@ -518,12 +518,12 @@
       ".well-known": "",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock",
+      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock4",
       "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
       "enabled": "true"
     },
 {
-      "credential_issuer": "Mock",
+      "credential_issuer": "Mock5",
       "display": [
         {
           "name": "Mock Identity5",
@@ -542,7 +542,7 @@
       ".well-known": "https://${mosip.injicertify.mock.host}/v1/certify/issuance/.well-known/openid-credential-issuer",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock",
+      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock5",
       "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
       "enabled": "true"
     }  
