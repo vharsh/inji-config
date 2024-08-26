@@ -102,6 +102,7 @@
         "InsuranceCredential"
       ],
       "credential_audience": "https://${mosip.injicertify.insurance.host}",
+      "qr_code_type": "OVPRequest",
       "enabled": "true"
     },
     {
@@ -189,6 +190,7 @@
         "MOSIPVerifiableCredential"
       ],
       "credential_audience": "https://${mosip.injicertify.mosipid.host}",
+      "qr_code_type": "OVPRequest",
       "enabled": "true"
     },
     {
@@ -226,6 +228,7 @@
         "MOCKVerifiableCredential_ldp"
       ],
       "credential_audience": "https://${mosip.injicertify.mock.host}",
+      "qr_code_type": "OVPRequest",
       "enabled": "true"
     },
     {
@@ -300,6 +303,7 @@
       "authorization_audience": "https://${mosip.esignet.mosipid.host}/v1/esignet/oauth/v2/token",
       "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mosip",
       "proxy_token_endpoint": "https://${mosip.esignet.mosipid.host}/v1/esignet/oauth/v2/token",
+      "qr_code_type": "OVPRequest",
       "enabled": "true"
     },
     {
@@ -324,6 +328,7 @@
       "authorization_audience": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
       "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/StayProtected",
       "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
+      "qr_code_type": "OVPRequest",
       "enabled": "true"
     },
     {
@@ -348,6 +353,7 @@
       "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
       "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock",
       "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+      "qr_code_type": "OVPRequest",
       "enabled": "true"
     },
     {
@@ -422,6 +428,7 @@
       "authorization_audience": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
       "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/StayProtected-Fallback",
       "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
+      "qr_code_type": "OVPRequest",
       "enabled": "true"
    }
   ]
