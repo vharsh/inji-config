@@ -422,7 +422,6 @@
       ],
       "protocol": "OpenId4VCI",
       "client_id": "${mimoto.oidc.sunbird.partner.clientid}",
-      "client_alias": "esignet-sunbird-partner",
       ".well-known": "http://inji-config-server.config-server/config/print/default/develop/mimoto-sunbird-insurance-wellknown.json",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "authorization_audience": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
