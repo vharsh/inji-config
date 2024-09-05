@@ -530,6 +530,6 @@
       "proxy_token_endpoint": "https://${mosip.esignet.mosipid.host}/v1/esignet/oauth/v2/token",
       "qr_code_type": "OVPRequest",
       "enabled": "true"
-    },    
+    } 
   ]
 }
