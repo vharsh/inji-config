@@ -102,7 +102,7 @@
         "InsuranceCredential"
       ],
       "credential_audience": "https://${mosip.injicertify.insurance.host}",
-      "qr_code_type": "EmbeddedVC",
+      "qr_code_type": "OVPRequest",
       "enabled": "true"
     },
     {
