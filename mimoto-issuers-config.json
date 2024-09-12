@@ -440,7 +440,7 @@
             "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
             "alt_text": "mosip-logo"
           },
-          "title": "Mock Identity",
+          "title": "Mock Identity - Fallback",
           "description": "Download Mock Identity Credential",
           "language": "en"
         }
@@ -460,12 +460,12 @@
       "credential_issuer": "Mosip-Fallback",
       "display": [
         {
-          "name": "National Identity Department - Fallback",
+          "name": "National Identity Department",
           "logo": {
             "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
             "alt_text": "mosip-logo"
           },
-          "title": "National Identity Department",
+          "title": "National Identity Department - Fallback",
           "description": "Download MOSIP National / Foundational Identity Credential",
           "language": "en"
         },
