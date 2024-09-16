@@ -266,6 +266,31 @@
       "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
       "qr_code_type": "OVPRequest",
       "enabled": "true"
-    }
+    },
+    {
+          "credential_issuer": "Mock-Fallback",
+          "display": [
+            {
+              "name": "Mock Identity",
+              "logo": {
+                "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
+                "alt_text": "mosip-logo"
+              },
+              "title": "Mock Identity - Fallback",
+              "description": "Download Mock Identity Credential",
+              "language": "en"
+            }
+          ],
+          "protocol": "OpenId4VCI",
+          "client_id": "${mimoto.oidc.mock.partner.clientid}",
+          "client_alias": "mpartner-mock-testing",
+          ".well-known": "http://inji-config-server.config-server/config/mimoto/default/develop/mimoto-mock-identity-wellknown.json",
+          "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
+          "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+          "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock-Fallback",
+          "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+          "qr_code_type": "OVPRequest",
+          "enabled": "true"
+        },
   ]
 }
