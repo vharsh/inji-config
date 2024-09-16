@@ -284,7 +284,7 @@
           "protocol": "OpenId4VCI",
           "client_id": "${mimoto.oidc.mock.partner.clientid}",
           "client_alias": "mpartner-mock-testing",
-          ".well-known": "http://config-server1.config-server1/config/mimoto/default/develop/mimoto-mock-identity-wellknown.json"
+          ".well-known": "http://config-server1.config-server1/config/mimoto/default/develop/mimoto-mock-identity-wellknown.json",
           "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
           "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
           "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock-Fallback",
