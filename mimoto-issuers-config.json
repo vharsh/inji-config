@@ -446,7 +446,6 @@
         }
       ],
       "protocol": "OpenId4VCI",
-      "client_id": "${mimoto.oidc.mock.partner.clientid}",
       "client_alias": "mpartner-mock-testing",
       ".well-known": "http://inji-config-server.config-server/config/mimoto/default/qa/mimoto-mock-identity-wellknown.json",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
