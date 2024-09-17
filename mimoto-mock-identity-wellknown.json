@@ -1,8 +1,5 @@
 {
   "credential_issuer": "https://${mosip.injicertify.mock.host}",
-  "authorization_servers": [
-    "https://${mosip.esignet.mock.host}"
-  ],
   "credential_endpoint": "https://${mosip.injicertify.mock.host}/v1/certify/issuance/credential",
   "credential_configurations_supported": {
     "MockVerifiableCredential": {
