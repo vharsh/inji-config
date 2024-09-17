@@ -1,4 +1,5 @@
 {
+  "credential_issuer": "https://${mosip.injicertify.mosipid.host}",
   "authorization_servers": [
     "https://${mosip.esignet.mosipid.host}"
   ],
