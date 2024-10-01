@@ -128,7 +128,7 @@
             "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
             "alt_text": "a square logo of a MOSIP"
           },
-          "background_color": "#f8efea",
+          "background_color": "#8FCE00",
           "background_image": {
             "uri": "https://${mosip.api.public.host}/inji/mosip-logo.png"
           },
