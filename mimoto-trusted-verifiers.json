@@ -5,6 +5,13 @@
       "redirect_uris": [
         "https://${mosip.injiverify.host}/redirect"
       ]
-    }
+    },
+    {
+      "client_id": "https://injiverify.dev1.mosip.net",
+      "redirect_uri": [
+        "https://injiverify.dev1.mosip.net/redirect",
+        "https://injiverify.qa-inji.mosip.net/redirect"
+      ]
+    }  
   ]
 }
