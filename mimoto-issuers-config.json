@@ -4,60 +4,60 @@
       "credential_issuer": "MosipOtp",
       "display": [
         {
-          "name": "MOSIP National ID",
+          "name": "UIN, VID, AID",
           "logo": {
             "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "a square logo of MOSIP"
+            "alt_text": "mosip logo"
           },
           "title": "Download MOSIP Credentials via OTP",
           "description":"Download credentials by providing UIN, VID or AID",
           "language": "en"
         },
         {
-          "name": "الهوية الوطنية MOSIP",
+          "name": "UIN, VID, AID",
           "logo": {
             "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "شعار مربع لـ MOSIP"
+            "alt_text": "شعار موسيب"
           },
           "title": "قم بتنزيل بيانات اعتماد MOSIP عبر OTP",
           "description": "قم بتنزيل بيانات الاعتماد من خلال توفير UIN أو VID أو AID",
           "language": "ar"
         },
         {
-          "name": "एमओसिप राष्ट्रीय आईडी",
+          "name": "UIN, VID, AID",
           "logo": {
             "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "MOSIP का एक वर्गाकार लोगो"
+            "alt_text": "मोसिप लोगो"
           },
           "title": "OTP के माध्यम से MOSIP क्रेडेंशियल डाउनलोड करें",
           "description":"यूआईएन, वीआईडी या एआईडी प्रदान करके क्रेडेंशियल डाउनलोड करें",
           "language": "hi"
         },
         {
-          "name": "MOSIP ರಾಷ್ಟ್ರೀಯ ID",
+          "name": "UIN, VID, AID",
           "logo": {
             "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "MOSIP ನ ಚದರ ಲೋಗೋ"
+            "alt_text": "mosip ಲೋಗೋ"
           },
           "title": "OTP ಮೂಲಕ MOSIP ರುಜುವಾತುಗಳನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಿ",
           "description": "UIN, VID ಅಥವಾ AID ಒದಗಿಸುವ ಮೂಲಕ ರುಜುವಾತುಗಳನ್ನು ಡೌನ್\u200Cಲೋಡ್ ಮಾಡಿ",
           "language": "kn"
         },
         {
-          "name": "MOSIP தேசிய ஐடி",
+          "name": "UIN, VID, AID",
           "logo": {
             "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "MOSIP இன் சதுர லோகோ"
+            "alt_text": "mosip சின்னம்"
           },
           "title": "OTP வழியாக MOSIP சான்றுகளைப் பதிவிறக்கவும்",
           "description":"UIN, VID அல்லது AID ஐ வழங்குவதன் மூலம் நற்சான்றிதழ்களைப் பதிவிறக்கவும்",
           "language": "ta"
         },
         {
-          "name": "MOSIP National ID",
+          "name": "UIN, VID, AID",
           "logo": {
             "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "isang parisukat na logo ng MOSIP"
+            "alt_text": "logo ng mosip"
           },
           "title": "I-download ang Mga Kredensyal ng MOSIP sa pamamagitan ng OTP",
           "description":"Mag-download ng mga kredensyal sa pamamagitan ng pagbibigay ng UIN, VID o AID",
@@ -71,64 +71,64 @@
       "credential_issuer": "Mosip",
       "display": [
         {
-          "name": "National Identity Department",
+          "name": "Veridonia National ID Department",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "mosip-logo"
+            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
+            "alt_text": "a square logo of veridonia"
           },
-          "title": "National Identity Department",
-          "description": "Download MOSIP National / Foundational Identity Credential",
+          "title": "Veridonia National ID Department",
+          "description": "Download National ID credential",
           "language": "en"
         },
         {
-          "name": "دائرة الهوية الوطنية",
+          "name": "إدارة الهوية الوطنية فيريدونيا",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "شعار موسيب"
+            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
+            "alt_text": "شعار مربع من veridonia"
           },
-          "title": "دائرة الهوية الوطنية",
-          "description": "قم بتنزيل بيانات اعتماد الهوية الوطنية / التأسيسية MOSIP" ,
+          "title": "إدارة الهوية الوطنية فيريدونيا",
+          "description": "تحميل بطاقة الهوية الوطنية",
           "language": "ar"
         },
         {
-          "name": "राष्ट्रीय पहचान विभाग",
+          "name": "वेरिडोनिया राष्ट्रीय आईडी विभाग",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "मोसिप लोगो"
+            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
+            "alt_text": "वेरिडोनिया का एक वर्गाकार लोगो"
           },
-          "title": "राष्ट्रीय पहचान विभाग",
-          "description":"MOSIP नेशनल/फाउंडेशनल आइडेंटिटी क्रेडेंशियल डाउनलोड करेंं",
+          "title": "वेरिडोनिया राष्ट्रीय आईडी विभाग",
+          "description": "राष्ट्रीय आईडी क्रेडेंशियल डाउनलोड करें",
           "language": "hi"
         },
         {
-          "name": "ರಾಷ್ಟ್ರೀಯ ಗುರುತಿನ ಇಲಾಖೆ",
+          "name": "ವೆರಿಡೋನಿಯಾ ರಾಷ್ಟ್ರೀಯ ID ಇಲಾಖೆ",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "mosip ಲೋಗೋ"
+            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
+            "alt_text": "ವೆರಿಡೋನಿಯಾದ ಚೌಕಾಕಾರದ ಲೋಗೋ"
           },
-          "title": "ರಾಷ್ಟ್ರೀಯ ಗುರುತಿನ ಇಲಾಖೆ",
-          "description": "MOSIP ರಾಷ್ಟ್ರೀಯ / ಫೌಂಡೇಶನಲ್ ಐಡೆಂಟಿಟಿ ರುಜುವಾತು ಡೌನ್\u200Cಲೋಡ್ ಮಾಡಿ",
+          "title": "ವೆರಿಡೋನಿಯಾ ರಾಷ್ಟ್ರೀಯ ID ಇಲಾಖೆ",
+          "description": "ರಾಷ್ಟ್ರೀಯ ID ರುಜುವಾತುಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
           "language": "kn"
         },
         {
-          "name": "தேசிய அடையாளத் துறை",
+          "name": "வெரிடோனியா தேசிய அடையாளத் துறை",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "mosip லோகோ"
+            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
+            "alt_text": "வெரிடோனியாவின் சதுர லோகோ"
           },
-          "title": "தேசிய அடையாளத் துறை",
-          "description":"MOSIP தேசிய / அடிப்படை அடையாளச் சான்றிதழைப் பதிவிறக்கவும்",
+          "title": "வெரிடோனியா தேசிய அடையாளத் துறை",
+          "description": "தேசிய அடையாளச் சான்றிதழைப் பதிவிறக்கவும்",
           "language": "ta"
         },
         {
-          "name": "National Identity Department",
+          "name": "Département national d'identité de Veridonia",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "logo ng mosip"
+            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
+            "alt_text": "un logo carré de veridonia"
           },
-          "title": "National Identity Department",
-          "description":"I-download ang MOSIP National / Foundational Identity Credential",
-          "language": "fil"
+          "title": "Département national d'identité de Veridonia",
+          "description": "Télécharger le titre d'identité nationale",
+          "language": "fr"
         }
       ],
       "protocol": "OpenId4VCI",
@@ -148,67 +148,67 @@
       "enabled": "true"
     },
     {
-      "credential_issuer": "SunbirdOld",
+      "credential_issuer": "StayProtected",
       "display": [
         {
-          "name": "Sunbird Insurance",
+          "name": "StayProtected Insurance",
           "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "a square logo of a Sunbird"
+            "url": "https://raw.githubusercontent.com/tw-mosip/file-server/master/StayProtectedInsurance.png",
+            "alt_text": "a square logo of a StayProtected"
           },
           "language": "en",
-          "title": "Download Sunbird Credentials",
-          "description": "Download credentials with your Policy Number"
+          "title": "StayProtected Insurance",
+          "description": "Download insurance credential"
         },
         {
-          "name": "التأمين سنبيرد",
+          "name": "تأمين البقاء المحمي",
           "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "شعار مربع لطائر الشمس"
+            "url": "https://raw.githubusercontent.com/tw-mosip/file-server/master/StayProtectedInsurance.png",
+            "alt_text": "شعار مربع لـ StayProtected"
           },
           "language": "ar",
-          "title": "قم بتنزيل بيانات اعتماد Sunbird",
-          "description": "قم بتنزيل بيانات الاعتماد باستخدام رقم السياسة الخاص بك"
+          "title": "تأمين البقاء المحمي",
+          "description": "تنزيل بيانات اعتماد التأمين"
         },
         {
-          "name": "सनबर्ड बीमा",
+          "name": "सुरक्षित रहें बीमा",
           "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "सनबर्ड का एक चौकोर लोगो"
+            "url": "https://raw.githubusercontent.com/tw-mosip/file-server/master/StayProtectedInsurance.png",
+            "alt_text": "StayProtected का एक वर्गाकार लोगो"
           },
           "language": "hi",
-          "title": "सनबर्ड क्रेडेंशियल्स डाउनलोड करेंं",
-          "description": "अपने पॉलिसी नंबर के साथ क्रेडेंशियल डाउनलोड करें"
+          "title": "सुरक्षित रहें बीमा",
+          "description": "बीमा क्रेडेंशियल डाउनलोड करें"
         },
         {
-          "name": "ಸನ್ ಬರ್ಡ್",
+          "name": "ಸ್ಟೇ ರಕ್ಷಿತ ವಿಮೆ",
           "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "ಸನ್ ಬರ್ಡ್ ನ ಚೌಕಾಕಾರದ ಲೋಗೋ"
+            "url": "https://raw.githubusercontent.com/tw-mosip/file-server/master/StayProtectedInsurance.png",
+            "alt_text": "StayProtected ನ ಚೌಕಾಕಾರದ ಲೋಗೋ"
           },
           "language": "kn",
-          "title": "ಸನ್ಬರ್ಡ್ ರುಜುವಾತುಗಳನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಿ",
-          "description": "ನಿಮ್ಮ ಪಾಲಿಸಿ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ರುಜುವಾತುಗಳನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಿ"
+          "title": "ಸ್ಟೇ ರಕ್ಷಿತ ವಿಮೆ",
+          "description": "ವಿಮಾ ರುಜುವಾತುಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
         },
         {
-          "name": "சன்பேர்ட் காப்பீடு",
+          "name": "பாதுகாக்கப்பட்ட காப்பீடு",
           "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "சூரிய பறவையின் சதுர சின்னம்"
+            "url": "https://raw.githubusercontent.com/tw-mosip/file-server/master/StayProtectedInsurance.png",
+            "alt_text": "StayProtected இன் சதுர லோகோ"
           },
           "language": "ta",
-          "title": "Sunbird சான்றுகளைப் பதிவிறக்கவும்",
-          "description": "உங்கள் பாலிசி எண்ணுடன் நற்சான்றிதழ்களைப் பதிவிறக்கவும்"
+          "title": "பாதுகாக்கப்பட்ட காப்பீடு",
+          "description": "காப்பீட்டுச் சான்றிதழைப் பதிவிறக்கவும்"
         },
         {
-          "name": "Seguro sa Sunbird",
+          "name": "Assurance Restez Protégé",
           "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "isang parisukat na logo ng isang Sunbird"
+            "url": "https://raw.githubusercontent.com/tw-mosip/file-server/master/StayProtectedInsurance.png",
+            "alt_text": "un logo carré d'un StayProtected"
           },
-          "language": "fil",
-          "title": "I-download ang Mga Kredensyal ng Sunbird",
-          "description": "Mag-download ng mga kredensyal gamit ang iyong Numero ng Patakaran"
+          "language": "fr",
+          "title": "Assurance Restez Protégé",
+          "description": "Télécharger le certificat d'assurance"
         }
       ],
       "protocol": "OpenId4VCI",
@@ -220,87 +220,7 @@
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "authorization_endpoint": "https://${mosip.esignet.insurance.host}/authorize",
       "authorization_audience": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/SunbirdOld",
-      "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
-      "credential_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/vci/credential",
-      "credential_type": ["VerifiableCredential", "InsuranceCredential"],
-      "credential_audience": "https://${mosip.esignet.insurance.host}",
-      "enabled": "false"
-    },
-    {
-      "credential_issuer": "Sunbird",
-      "display": [
-        {
-          "name": "Veridonia Insurance Company",
-          "logo": {
-            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
-            "alt_text": "a Veridonia logo"
-          },
-          "language": "en",
-          "title": "Veridonia Insurance Company",
-          "description": "Download Insurance Credentials using policy details"
-        },
-        {
-          "name": "شركة فيريدونيا للتأمين",
-          "logo": {
-            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
-            "alt_text": "شعار فيريدونيا"
-          },
-          "language": "ar",
-          "title": "شركة فيريدونيا للتأمين",
-          "description": "قم بتنزيل بيانات اعتماد التأمين باستخدام تفاصيل السياسة"
-        },
-        {
-          "name": "वेरिडोनिया बीमा कंपनींं",
-          "logo": {
-            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
-            "alt_text": "एक वेरिडोनिया लोगो"
-          },
-          "language": "hi",
-          "title": "वेरिडोनिया बीमा कंपनींं",
-          "description": "पॉलिसी विवरण का उपयोग करके बीमा क्रेडेंशियल डाउनलोड करें"
-        },
-        {
-          "name": "ವೆರಿಡೋನಿಯಾ ವಿಮಾ ಕಂಪನಿ",
-          "logo": {
-            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
-            "alt_text": "ವೆರಿಡೋನಿಯಾ ಲೋಗೋ"
-          },
-          "language": "kn",
-          "title": "ವೆರಿಡೋನಿಯಾ ವಿಮಾ ಕಂಪನಿ",
-          "description": "ಪಾಲಿಸಿ ವಿವರಗಳನ್ನು ಬಳಸಿಕೊಂಡು ವಿಮಾ ರುಜುವಾತುಗಳನ್ನು ಡೌನ್\u200Cಲೋಡ್ ಮಾಡಿ"
-        },
-        {
-          "name": "வெரிடோனியா இன்சூரன்ஸ் நிறுவனம்",
-          "logo": {
-            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
-            "alt_text": "ஒரு வெரிடோனியா லோகோ"
-          },
-          "language": "ta",
-          "title": "வெரிடோனியா இன்சூரன்ஸ் நிறுவனம்",
-          "description": "பாலிசி விவரங்களைப் பயன்படுத்தி காப்பீட்டுச் சான்றுகளைப் பதிவிறக்கவும்"
-        },
-        {
-          "name": "Veridonia Insurance Company",
-          "logo": {
-            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
-            "alt_text": "isang logo ng Veridonia"
-          },
-          "language": "fil",
-          "title": "Veridonia Insurance Company",
-          "description": "I-download ang Mga Kredensyal ng Seguro gamit ang mga detalye ng patakaran"
-        }
-      ],
-      "protocol": "OpenId4VCI",
-      "client_id": "${mimoto.oidc.sunbird.partner.clientid}",
-      "client_alias": "esignet-sunbird-partner",
-      "scopes_supported": ["sunbird_rc_insurance_vc_ldp"],
-      "additional_headers": { "Accept": "application/json" },
-      ".well-known": "https://${mosip.esignet.insurance.host}/.well-known/openid-credential-issuer?version=v11",
-      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
-      "authorization_endpoint": "https://${mosip.esignet.insurance.host}/authorize",
-      "authorization_audience": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/Sunbird",
+      "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/StayProtected",
       "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
       "credential_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/vci/credential",
       "credential_type": ["VerifiableCredential", "InsuranceCredential"],
@@ -308,289 +228,84 @@
       "enabled": "true"
     },
     {
-      "credential_issuer": "Sunbird140",
+      "credential_issuer": "OpenG2PSocialCashTransferProgram",
       "display": [
         {
-          "name": "Sunbird 140 RC Insurance Verifiable Credential",
+          "name": "Social Welfare Department",
           "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "a square logo of a Sunbird"
+            "url": "https://explore.openg2p.org/g2p_openid_vci/static/description/icon.png",
+            "alt_text": "openg2p-logo"
           },
-          "language": "en",
-          "title": "Download Sunbird 140 Credentials",
-          "description": "Download credentials with your Policy Number"
-        },
-        {
-          "name": "بيانات الاعتماد التي يمكن التحقق منها للتأمين Sunbird RC",
-          "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "شعار مربع لطائر الشمس"
-          },
-          "language": "ar",
-          "title": "قم بتنزيل بيانات اعتماد Sunbird",
-          "description": "قم بتنزيل بيانات الاعتماد باستخدام رقم السياسة الخاص بك"
-        },
-        {
-          "name": "सनबर्ड आरसी बीमा सत्यापन योग्य क्रेडेंशियल",
-          "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "सनबर्ड का एक चौकोर लोगो"
-          },
-          "language": "hi",
-          "title": "सनबर्ड क्रेडेंशियल्स डाउनलोड करेंं",
-          "description": "अपने पॉलिसी नंबर के साथ क्रेडेंशियल डाउनलोड करें"
-        },
-        {
-          "name": "ಸನ್ಬರ್ಡ್ ಆರ್ಸಿ ವಿಮೆ ಪರಿಶೀಲಿಸಬಹುದಾದ ರುಜುವಾತು",
-          "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "ಸನ್ ಬರ್ಡ್ ನ ಚೌಕಾಕಾರದ ಲೋಗೋ"
-          },
-          "language": "kn",
-          "title": "ಸನ್ಬರ್ಡ್ ರುಜುವಾತುಗಳನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಿ",
-          "description": "ನಿಮ್ಮ ಪಾಲಿಸಿ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ರುಜುವಾತುಗಳನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಿ"
-        },
-        {
-          "name": "Sunbird RC இன்சூரன்ஸ் சரிபார்க்கக்கூடிய நற்சான்றிதழ்",
-          "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "சூரிய பறவையின் சதுர சின்னம்"
-          },
-          "language": "ta",
-          "title": "Sunbird சான்றுகளைப் பதிவிறக்கவும்",
-          "description": "உங்கள் பாலிசி எண்ணுடன் நற்சான்றிதழ்களைப் பதிவிறக்கவும்"
-        },
-        {
-          "name": "Kredensyal na Nabe-verify ng Sunbird RC Insurance",
-          "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "isang parisukat na logo ng isang Sunbird"
-          },
-          "language": "fil",
-          "title": "I-download ang Mga Kredensyal ng Sunbird",
-          "description": "Mag-download ng mga kredensyal gamit ang iyong Numero ng Patakaran"
-        }
-      ],
-      "protocol": "OpenId4VCI",
-      "client_id": "esignet-sunbird-140-partner",
-      "client_alias": "esignet-sunbird-140-partner",
-      "scopes_supported": ["sunbird_rc_insurance_vc_ldp"],
-      "additional_headers": { "Accept": "application/json" },
-      ".well-known": "https://esignet-140.qa-inji.mosip.net/.well-known/openid-credential-issuer?version=v11",
-      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
-      "authorization_endpoint": "https://esignet-140.qa-inji.mosip.net/authorize",
-      "authorization_audience": "https://esignet-140.qa-inji.mosip.net/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/Sunbird140",
-      "proxy_token_endpoint": "https://esignet-140.qa-inji.mosip.net/v1/esignet/oauth/v2/token",
-      "credential_endpoint": "https://esignet-140.qa-inji.mosip.net/v1/esignet/vci/credential",
-      "credential_type": ["VerifiableCredential", "InsuranceCredential"],
-      "credential_audience": "https://esignet-140.qa-inji.mosip.net",
-      "enabled": "false"
-    },
-    {
-      "credential_issuer": "VeridoniaCertify",
-      "display": [
-        {
-          "name": "Veridonia Insurance Company (Certify)",
-          "logo": {
-            "url": "https://${mosip.api.public.host}/inji/veridonia-logo.png",
-            "alt_text": "a square logo of a Sunbird"
-          },
-          "language": "en",
-          "title": "Download Veridonia Insurance(Certify) Credentials",
-          "description": "Download credentials with your Policy Number"
-        }
-      ],
-      "protocol": "OpenId4VCI",
-      "client_id": "${mimoto.oidc.sunbird.partner.clientid}",
-      "client_alias": "esignet-sunbird-partner",
-      "scopes_supported": [
-        "sunbird_rc_insurance_vc_ldp"
-      ],
-      "additional_headers": {
-        "Accept": "application/json"
-      },
-      ".well-known": "https://${mosip.injicertify.host}/v1/certify/issuance/.well-known/openid-credential-issuer?version=vd11",
-      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
-      "authorization_endpoint": "https://${mosip.esignet.insurance.host}/authorize",
-      "authorization_audience": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/VeridoniaCertify",
-      "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
-      "credential_endpoint": "https://${mosip.injicertify.host}/v1/certify/issuance/vd11/credential",
-      "credential_type": [
-        "VerifiableCredential",
-        "InsuranceCredential"
-      ],
-      "credential_audience": "https://${mosip.injicertify.host}",
-      "enabled": "true"
-    },
-    {
-      "credential_issuer": "HealthCoverageZ",
-      "display": [
-        {
-          "name": "HealthCoverageZ Verifiable Credential",
-          "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "a square logo of a HealthCoverageZ"
-          },
-          "language": "en",
-          "title": "Download HealthCoverageZ Credentials",
-          "description": "Download credentials with your Policy Number"
-        }
-      ],
-      "protocol": "OpenId4VCI",
-      "client_id": "${mimoto.oidc.sunbird.partner.clientid}",
-      "client_alias": "esignet-sunbird-partner",
-      "additional_headers": {
-        "Accept": "application/json"
-      },
-      "credential_type": [
-        "VerifiableCredential",
-        "InsuranceCredential"
-      ],
-      ".well-known": "https://${mosip.esignet.insurance.host}/.well-known/openid-credential-issuer?version=v11",
-      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
-      "authorization_endpoint": "https://${mosip.esignet.insurance.host}/authorize",
-      "authorization_audience": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/HealthCoverageZ",
-      "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
-      "enabled": "true"
-    },
-    {
-      "credential_issuer": "ProtectionPlus+",
-      "display": [
-        {
-          "name": "ProtectionPlus+ Verifiable Credential",
-          "logo": {
-            "url": "https://sunbird.org/images/sunbird-logo-new.png",
-            "alt_text": "a square logo of a Sunbird"
-          },
-          "language": "en",
-          "title": "Download ProtectionPlus+ Credentials",
-          "description": "Download credentials with your Policy Number"
-        }
-      ],
-      "protocol": "OpenId4VCI",
-      "client_id": "${mimoto.oidc.sunbird.partner.clientid}",
-      "client_alias": "esignet-sunbird-partner",
-      "scopes_supported": [
-        "sunbird_rc_insurance_vc_ldp"
-      ],
-      "additional_headers": {
-        "Accept": "application/json"
-      },
-      "credentials_supported": [
-        {
-          "format": "ldp_vc",
-          "id": "VehicleInsuranceCredential",
-          "scope": "vehicle_insurance_vc_ldp",
-          "credential_definition": {
-            "type": [
-              "VerifiableCredential",
-              "VehicleInsuranceCredential"
-            ]
-          }
-        }
-      ],
-      "credential_type": [
-        "VerifiableCredential",
-        "InsuranceCredential"
-      ],
-      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
-      "authorization_endpoint": "https://${mosip.esignet.insurance.host}/authorize",
-      "authorization_audience": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/ProtectionPlus+",
-      "proxy_token_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/oauth/v2/token",
-      "credential_endpoint": "https://${mosip.esignet.insurance.host}/v1/esignet/vci/credential",
-      "credential_audience": "https://${mosip.esignet.insurance.host}",
-      "enabled": "true"
-    },
-    {
-      "credential_issuer": "MosipCertify",
-      "display": [
-        {
-          "name": "National Identity Department (Certify)",
-          "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "mosip-logo"
-          },
-          "title": "National Identity Department (Certify)",
-          "description": "Download MOSIP National / Foundational Identity Credential",
+          "title": "Social Welfare Department",
+          "description": "Download Beneficiary e-Card for Social Cash Transfer Programme",
           "language": "en"
         },
         {
-          "name": "دائرة الهوية الوطنية",
+          "name": "إدارة الرعاية الاجتماعية",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "شعار موسيب"
+            "url": "https://explore.openg2p.org/g2p_openid_vci/static/description/icon.png",
+            "alt_text": "openg2p-logo"
           },
-          "title": "دائرة الهوية الوطنية",
-          "description": "قم بتنزيل بيانات اعتماد الهوية الوطنية / التأسيسية MOSIP",
+          "title": "إدارة الرعاية الاجتماعية",
+          "description": "قم بتنزيل البطاقة الإلكترونية للمستفيد لبرنامج التحويلات النقدية الاجتماعية",
           "language": "ar"
         },
         {
-          "name": "राष्ट्रीय पहचान विभाग",
+          "name": "समाज कल्याण विभाग",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "मोसिप लोगो"
+            "url": "https://explore.openg2p.org/g2p_openid_vci/static/description/icon.png",
+            "alt_text": "openg2p-लोगो"
           },
-          "title": "राष्ट्रीय पहचान विभाग",
-          "description": "MOSIP नेशनल/फाउंडेशनल आइडेंटिटी क्रेडेंशियल डाउनलोड करेंं",
+          "title": "समाज कल्याण विभाग",
+          "description": "सामाजिक नकद हस्तांतरण कार्यक्रम के लिए लाभार्थी ई-कार्ड डाउनलोड करें",
           "language": "hi"
         },
         {
-          "name": "ರಾಷ್ಟ್ರೀಯ ಗುರುತಿನ ಇಲಾಖೆ",
+          "name": "ಸಮಾಜ ಕಲ್ಯಾಣ ಇಲಾಖೆ",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "mosip ಲೋಗೋ"
+            "url": "https://explore.openg2p.org/g2p_openid_vci/static/description/icon.png",
+            "alt_text": "openg2p-ಲೋಗೋ"
           },
-          "title": "ರಾಷ್ಟ್ರೀಯ ಗುರುತಿನ ಇಲಾಖೆ",
-          "description": "MOSIP ರಾಷ್ಟ್ರೀಯ / ಫೌಂಡೇಶನಲ್ ಐಡೆಂಟಿಟಿ ರುಜುವಾತು ಡೌನ್\u200Cಲೋಡ್ ಮಾಡಿ",
+          "title": "ಸಮಾಜ ಕಲ್ಯಾಣ ಇಲಾಖೆ",
+          "description": "ಸಾಮಾಜಿಕ ನಗದು ವರ್ಗಾವಣೆ ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ ಫಲಾನುಭವಿ ಇ-ಕಾರ್ಡ್ ಡೌನ್\u200Cಲೋಡ್ ಮಾಡಿ",
           "language": "kn"
         },
         {
-          "name": "தேசிய அடையாளத் துறை",
+          "name": "சமூக நலத்துறை",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "mosip லோகோ"
+            "url": "https://explore.openg2p.org/g2p_openid_vci/static/description/icon.png",
+            "alt_text": "openg2p-லோகோ"
           },
-          "title": "தேசிய அடையாளத் துறை",
-          "description": "MOSIP தேசிய / அடிப்படை அடையாளச் சான்றிதழைப் பதிவிறக்கவும்",
+          "title": "சமூக நலத்துறை",
+          "description": "சமூக பணப் பரிமாற்றத் திட்டத்திற்கான பயனாளிகளின் மின் அட்டையைப் பதிவிறக்கவும்",
           "language": "ta"
         },
         {
-          "name": "National Identity Department",
+          "name": "Social Welfare Department",
           "logo": {
-            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
-            "alt_text": "logo ng mosip"
+            "url": "https://explore.openg2p.org/g2p_openid_vci/static/description/icon.png",
+            "alt_text": "open2p-logo"
           },
-          "title": "National Identity Department",
-          "description": "I-download ang MOSIP National / Foundational Identity Credential",
+          "title": "Social Welfare Department",
+          "description": "I-download ang Beneficiary e-Card para sa Social Cash Transfer Program",
           "language": "fil"
         }
       ],
       "protocol": "OpenId4VCI",
-      "client_id": "${mimoto.oidc.partner.clientid}",
-      "client_alias": "mpartner-default-mimotooidc",
-      "scopes_supported": [
-        "mosip_identity_vc_ldp"
-      ],
-      "additional_headers": {
-        "Accept": "application/json"
-      },
-      ".well-known": "https://${mosip.injicertify.host}/v1/certify/issuance/.well-known/openid-credential-issuer?version=vd11",
+      "client_id": "${mimoto.oidc.openg2p.partner.clientid}",
+      "client_alias": "openg2p-mimotooidc",
+      "scopes_supported": ["openg2p_beneficiary_1_vc_ldp"],
+      "additional_headers": { "Accept": "application/json" },
+      ".well-known": "https://explore.openg2p.org/api/v1/vci/.well-known/openid-credential-issuer/OpenG2PSocialCashTransferProgram",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "authorization_endpoint": "https://${mosip.esignet.host}/authorize",
       "authorization_audience": "https://${mosip.esignet.host}/v1/esignet/oauth/v2/token",
-      "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/MosipCertify",
+      "token_endpoint": "https://${mosip.api.public.host}/residentmobileapp/get-token/OpenG2PSocialCashTransferProgram",
       "proxy_token_endpoint": "https://${mosip.esignet.host}/v1/esignet/oauth/v2/token",
-      "credential_endpoint": "https://${mosip.injicertify.host}/v1/certify/issuance/vd11/credential",
-      "credential_type": [
-        "VerifiableCredential",
-        "MOSIPVerifiableCredential"
-      ],
-      "credential_audience": "https://${mosip.injicertify.host}",
-      "enabled": "true"
+      "credential_endpoint": "https://explore.openg2p.org/api/v1/vci/credential",
+      "credential_type": ["VerifiableCredential", "OpenG2PBeneficiaryVerifiableCredential"],
+      "credential_audience": "https://explore.openg2p.org",
+      "enabled": "false"
     }
   ]
 }
