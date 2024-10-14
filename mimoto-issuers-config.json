@@ -357,6 +357,106 @@
       "enabled": "true"
     },
     {
+      "credential_issuer": "Mock0",
+      "display": [
+        {
+          "name": "Mock Identity0",
+          "logo": {
+            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
+            "alt_text": "mosip-logo"
+          },
+          "title": "Mock Identity0",
+          "description": "Download Mock Identity Credential",
+          "language": "en"
+        }
+      ],
+      "protocol": "OpenId4VCI",
+      "client_id": "${mimoto.oidc.mock.partner.clientid}",
+      "client_alias": "mpartner-mock-testing",
+      "wellknown_endpoint": "https://${mosip.injicertify.mock.host}/v1/certify/issuance/.well-known/openid-credential-issuer",
+      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
+      "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock0",
+      "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+      "qr_code_type": "OnlineSharing",
+      "enabled": "true"
+    },
+    {
+      "credential_issuer": "Mock1",
+      "display": [
+        {
+          "name": "Mock Identity1",
+          "logo": {
+            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
+            "alt_text": "mosip-logo"
+          },
+          "title": "Mock Identity1",
+          "description": "Download Mock Identity Credential",
+          "language": "en"
+        }
+      ],
+      "protocol": "OpenId4VCI",
+      "client_id": "${mimoto.oidc.mock.partner.clientid}",
+      "client_alias": "mpartner-mock-testing",
+      "wellknown_endpoint": "https://${mosip.injicertify.mock.host}/v1/certify/issuance/.well-known/openid-credential-issuer",
+      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
+      "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock1",
+      "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+      "qr_code_type": "OnlineSharing",
+      "enabled": "true"
+    },
+    {
+      "credential_issuer": "Mock2",
+      "display": [
+        {
+          "name": "Mock Identity2",
+          "logo": {
+            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
+            "alt_text": "mosip-logo"
+          },
+          "title": "Mock Identity2",
+          "description": "Download Mock Identity Credential",
+          "language": "en"
+        }
+      ],
+      "protocol": "OpenId4VCI",
+      "client_id": "${mimoto.oidc.mock.partner.clientid}",
+      "client_alias": "mpartner-mock-testing",
+      "wellknown_endpoint": "https://${mosip.injicertify.mock.host}/v1/certify/issuance/.well-known/openid-credential-issuer",
+      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
+      "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock2",
+      "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+      "qr_code_type": "OnlineSharing",
+      "enabled": "true"
+    },
+    {
+      "credential_issuer": "Mock3",
+      "display": [
+        {
+          "name": "Mock Identity3",
+          "logo": {
+            "url": "https://${mosip.api.public.host}/inji/mosip-logo.png",
+            "alt_text": "mosip-logo"
+          },
+          "title": "Mock Identity3",
+          "description": "Download Mock Identity Credential",
+          "language": "en"
+        }
+      ],
+      "protocol": "OpenId4VCI",
+      "client_id": "${mimoto.oidc.mock.partner.clientid}",
+      "client_alias": "mpartner-mock-testing",
+      "wellknown_endpoint": "https://${mosip.injicertify.mock.host}/v1/certify/issuance/.well-known/openid-credential-issuer",
+      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
+      "authorization_audience": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+      "token_endpoint": "https://${mosip.api.public.host}/v1/mimoto/get-token/Mock3",
+      "proxy_token_endpoint": "https://${mosip.esignet.mock.host}/v1/esignet/oauth/v2/token",
+      "qr_code_type": "OnlineSharing",
+      "enabled": "true"
+    },    
+    {
       "credential_issuer": "StayProtected-Fallback",
       "display": [
         {
